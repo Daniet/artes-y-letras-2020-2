@@ -21,7 +21,7 @@ body {
 }
 
 #draw *{
-  transition: 2s;
+  transition: .7s;
 }
 
 .box-0 {
